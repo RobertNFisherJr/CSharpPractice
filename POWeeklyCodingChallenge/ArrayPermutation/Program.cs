@@ -17,14 +17,18 @@ namespace ArrayPermutation
         // Recursive calls that iterates all positions and swaps the last two
         public static void printPermutations (string workingString, List<int> remainingArray)
         {
+            // Base Case
             if (remainingArray.Count == 1)
             {
                 workingString += remainingArray[0] + "]";
                 Console.WriteLine(workingString);
             }
+            // Loop through remaining options
             foreach(int i in remainingArray)
             {
+                // Store start string as temp
                 string temp = workingString;
+                // If first case, append first bracket
                 if(workingString == "")
                 {
                     workingString += "[";

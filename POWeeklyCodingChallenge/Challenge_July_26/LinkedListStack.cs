@@ -13,20 +13,35 @@ namespace Challenge_July_26
         {
             this.myList = new LinkedList<int>();
         }
+        /// <summary>
+        /// Removes the "Top" element in the LinkedListStack
+        /// </summary>
+        /// <returns>Top element</returns>
         public int Pop()
         {
             int firstElement = myList.First();
             myList.RemoveFirst();
             return firstElement;
         }
+        /// <summary>
+        /// Adds the given integer to the LinkedListStack
+        /// </summary>
+        /// <param name="element">Some given integer</param>
         public void Push(int element)
         {
             myList.AddFirst(element);
         }
+        /// <summary>
+        /// Returns the top integer of the LinkedListStack without removing it from the list
+        /// </summary>
+        /// <returns></returns>
         public int Peek()
         {
             return myList.First();
         }
+        /// <summary>
+        /// Prints the list as an array, this is primarily used to get a visual of what the current LinkedList looks like.
+        /// </summary>
         public void print()
         {
             Utility.Printer.printIntArrayAsArray(myList.ToList());

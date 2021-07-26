@@ -9,6 +9,11 @@ namespace Challenge_July_26
 {
     public class ContiguousArray
     {
+        /// <summary>
+        /// Finds a continuous subarray of arr whose sum equals the given value x.
+        /// </summary>
+        /// <param name="arr">Some array that should contain a continuous subarray whos values sum to x</param>
+        /// <param name="x">The target sum for a given subarray</param>
         public void Solve(int[] arr, int x)
         {
             int sum = 0;

@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace ArrayPermutation
 {
-    class Program
+    public class Program
     {
         public void Solve(int[] given, int[] fourCase)
         {

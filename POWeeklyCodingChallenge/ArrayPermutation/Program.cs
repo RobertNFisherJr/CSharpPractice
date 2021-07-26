@@ -6,11 +6,9 @@ namespace ArrayPermutation
 {
     class Program
     {
-        static void Main(string[] args)
+        public void Solve(int[] given, int[] fourCase)
         {
             // Test Cases, pass to permutationList to convert
-            int[] given = {10, 20, 30};
-            int[] fourCase = { 1, 2, 3, 4 };
             List<int> permutationList = fourCase.ToList();
             printPermutations("", permutationList);
         }

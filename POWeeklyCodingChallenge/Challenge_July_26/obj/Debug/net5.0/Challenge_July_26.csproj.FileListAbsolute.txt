@@ -1,0 +1,15 @@
+C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\Challenge_July_26\obj\Debug\net5.0\Challenge_July_26.csprojAssemblyReference.cache
+C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\Challenge_July_26\obj\Debug\net5.0\Challenge_July_26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\Challenge_July_26\obj\Debug\net5.0\Challenge_July_26.AssemblyInfoInputs.cache
+C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\Challenge_July_26\obj\Debug\net5.0\Challenge_July_26.AssemblyInfo.cs
+C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\Challenge_July_26\obj\Debug\net5.0\Challenge_July_26.csproj.CoreCompileInputs.cache
+C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\Challenge_July_26\bin\Debug\net5.0\Challenge_July_26.deps.json
+C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\Challenge_July_26\bin\Debug\net5.0\Challenge_July_26.dll
+C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\Challenge_July_26\bin\Debug\net5.0\ref\Challenge_July_26.dll
+C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\Challenge_July_26\bin\Debug\net5.0\Challenge_July_26.pdb
+C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\Challenge_July_26\bin\Debug\net5.0\Utility.dll
+C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\Challenge_July_26\bin\Debug\net5.0\Utility.pdb
+C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\Challenge_July_26\obj\Debug\net5.0\Challenge_July_26.csproj.CopyComplete
+C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\Challenge_July_26\obj\Debug\net5.0\Challenge_July_26.dll
+C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\Challenge_July_26\obj\Debug\net5.0\ref\Challenge_July_26.dll
+C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\Challenge_July_26\obj\Debug\net5.0\Challenge_July_26.pdb

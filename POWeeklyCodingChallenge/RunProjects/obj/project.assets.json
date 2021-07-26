@@ -1,0 +1,131 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "ArrayPermutation/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/ArrayPermutation.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ArrayPermutation.dll": {}
+        }
+      },
+      "Challenge_July_26/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Utility": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Challenge_July_26.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Challenge_July_26.dll": {}
+        }
+      },
+      "Utility/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Utility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Utility.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArrayPermutation/1.0.0": {
+      "type": "project",
+      "path": "../ArrayPermutation/ArrayPermutation.csproj",
+      "msbuildProject": "../ArrayPermutation/ArrayPermutation.csproj"
+    },
+    "Challenge_July_26/1.0.0": {
+      "type": "project",
+      "path": "../Challenge_July_26/Challenge_July_26.csproj",
+      "msbuildProject": "../Challenge_July_26/Challenge_July_26.csproj"
+    },
+    "Utility/1.0.0": {
+      "type": "project",
+      "path": "../Utility/Utility.csproj",
+      "msbuildProject": "../Utility/Utility.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "ArrayPermutation >= 1.0.0",
+      "Challenge_July_26 >= 1.0.0",
+      "Utility >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Robbie\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Robbie\\Revature\\Purgatory\\Projects\\CSharpPractice\\POWeeklyCodingChallenge\\RunProjects\\RunProjects.csproj",
+      "projectName": "RunProjects",
+      "projectPath": "C:\\Users\\Robbie\\Revature\\Purgatory\\Projects\\CSharpPractice\\POWeeklyCodingChallenge\\RunProjects\\RunProjects.csproj",
+      "packagesPath": "C:\\Users\\Robbie\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Robbie\\Revature\\Purgatory\\Projects\\CSharpPractice\\POWeeklyCodingChallenge\\RunProjects\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Robbie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\Robbie\\Revature\\Purgatory\\Projects\\CSharpPractice\\POWeeklyCodingChallenge\\ArrayPermutation\\ArrayPermutation.csproj": {
+              "projectPath": "C:\\Users\\Robbie\\Revature\\Purgatory\\Projects\\CSharpPractice\\POWeeklyCodingChallenge\\ArrayPermutation\\ArrayPermutation.csproj"
+            },
+            "C:\\Users\\Robbie\\Revature\\Purgatory\\Projects\\CSharpPractice\\POWeeklyCodingChallenge\\Challenge_July_26\\Challenge_July_26.csproj": {
+              "projectPath": "C:\\Users\\Robbie\\Revature\\Purgatory\\Projects\\CSharpPractice\\POWeeklyCodingChallenge\\Challenge_July_26\\Challenge_July_26.csproj"
+            },
+            "C:\\Users\\Robbie\\Revature\\Purgatory\\Projects\\CSharpPractice\\POWeeklyCodingChallenge\\Utility\\Utility.csproj": {
+              "projectPath": "C:\\Users\\Robbie\\Revature\\Purgatory\\Projects\\CSharpPractice\\POWeeklyCodingChallenge\\Utility\\Utility.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

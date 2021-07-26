@@ -3,14 +3,10 @@ C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallen
 C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\ArrayPermutation\obj\Debug\net5.0\ArrayPermutation.AssemblyInfoInputs.cache
 C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\ArrayPermutation\obj\Debug\net5.0\ArrayPermutation.AssemblyInfo.cs
 C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\ArrayPermutation\obj\Debug\net5.0\ArrayPermutation.csproj.CoreCompileInputs.cache
-C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\ArrayPermutation\bin\Debug\net5.0\ArrayPermutation.exe
 C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\ArrayPermutation\bin\Debug\net5.0\ArrayPermutation.deps.json
-C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\ArrayPermutation\bin\Debug\net5.0\ArrayPermutation.runtimeconfig.json
-C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\ArrayPermutation\bin\Debug\net5.0\ArrayPermutation.runtimeconfig.dev.json
 C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\ArrayPermutation\bin\Debug\net5.0\ArrayPermutation.dll
 C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\ArrayPermutation\bin\Debug\net5.0\ref\ArrayPermutation.dll
 C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\ArrayPermutation\bin\Debug\net5.0\ArrayPermutation.pdb
 C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\ArrayPermutation\obj\Debug\net5.0\ArrayPermutation.dll
 C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\ArrayPermutation\obj\Debug\net5.0\ref\ArrayPermutation.dll
 C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\ArrayPermutation\obj\Debug\net5.0\ArrayPermutation.pdb
-C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\ArrayPermutation\obj\Debug\net5.0\ArrayPermutation.genruntimeconfig.cache

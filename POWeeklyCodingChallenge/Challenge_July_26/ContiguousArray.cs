@@ -26,32 +26,36 @@ namespace Challenge_July_26
                 sum = 0;
                 int counter = i;
 
-                Console.WriteLine(arr[i]);
-                while(sum < x)
+                while (sum < x)
                 {
                     sum += arr[counter];
                     elements.Add(arr[counter]);
 
                     if (sum == x)
                     {
-                        Console.WriteLine("Elements: ");
+                        Console.Write("Elements: ");
                         Utility.Printer.printIntArrayAsArray(elements);
                         indexs.Add(counter);
-                        Console.WriteLine("Index Between: ");
+                        Console.Write("Index Between: ");
                         Utility.Printer.printIntArrayAsArray(indexs);
                         return;
                     }
 
                     counter++;
-                    if(counter >= arr.Length)
+                    if (counter >= arr.Length)
                     {
                         Console.WriteLine("We have a problem!! This sum does not exist!");
                         return;
                     }
                 }
-                Console.WriteLine("Sum: " + sum);
             }
-            Utility.Printer.printIntArrayAsArray(elements);
+
+        }
+        public ContiguousArray()
+        {
+            Console.WriteLine("------------------------------");
+            Console.WriteLine("   <-->Contiguous Array<-->");
+            Console.WriteLine("------------------------------");
         }
     }
 }

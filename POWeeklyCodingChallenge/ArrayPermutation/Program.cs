@@ -6,20 +6,35 @@ namespace ArrayPermutation
 {
     public class Program
     {
-        public void Solve(int[] given, int[] fourCase)
+        public string permutatedArray { get; set; }
+        public int index { get; set; }
+        /// <summary>
+        /// Calls on recursive function printPermutations, to find every possible permutation
+        /// of the given array. The number of results will be equivelent to arr.Length factorial.
+        /// </summary>
+        /// <param name="arr">array that you would like permutated</param>
+        public void Solve(int[] arr)
         {
+            this.index = 0;
+            this.permutatedArray = "";
             // Test Cases, pass to permutationList to convert
-            List<int> permutationList = fourCase.ToList();
+            List<int> permutationList = arr.ToList();
             printPermutations("", permutationList);
         }
-        // Recursive calls that iterates all positions and swaps the last two
-        public static void printPermutations (string workingString, List<int> remainingArray)
+        /// <summary>
+        /// Recursive calls that iterates all positions looping through their given options
+        /// </summary>
+        /// <param name="workingString">A string that holds the current values of the array being constructed</param>
+        /// <param name="remainingArray">The remaining options for the method to select</param>
+        public void printPermutations (string workingString, List<int> remainingArray)
         {
             // Base Case
             if (remainingArray.Count == 1)
             {
+                this.index += 1;
                 workingString += remainingArray[0] + "]";
-                Console.WriteLine(workingString);
+                this.permutatedArray = workingString;
+                Console.WriteLine("Permutation " + index + ":\t" + workingString);
             }
             // Loop through remaining options
             foreach(int i in remainingArray)
@@ -37,6 +52,12 @@ namespace ArrayPermutation
                 printPermutations(workingString, newList);
                 workingString = temp;
             }
+        }
+        public Program()
+        {
+            Console.WriteLine("------------------------------");
+            Console.WriteLine("  <-->Array Permutation<-->");
+            Console.WriteLine("------------------------------");
         }
     }
 }

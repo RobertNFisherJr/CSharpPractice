@@ -12,6 +12,9 @@ namespace Challenge_July_26
         public LinkedListStack()
         {
             this.myList = new LinkedList<int>();
+            Console.WriteLine("------------------------------");
+            Console.WriteLine("   <-->LinkedListStack<-->");
+            Console.WriteLine("------------------------------");
         }
         /// <summary>
         /// Removes the "Top" element in the LinkedListStack

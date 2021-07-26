@@ -20,14 +20,16 @@ namespace RunProjects
         /// array, and prints the results.
         /// 
         /// Link: https://github.com/RobertNFisherJr/CSharpPractice/blob/main/POWeeklyCodingChallenge/ArrayPermutation/Program.cs
-        /// Complexity: O^(N^2)
+        /// Complexity: O^(N!)
         /// </summary>
         public static void ArrayPermutations()
         {
             // Solves the Array Permutations problem from Week July 19 2021 Revature Problem
             int[] given = { 10, 20, 30 };
+            // to show more robust results, pass this parameter
             int[] fourCase = { 1, 2, 3, 4 };
             ArrayPermutation.Program s = new ArrayPermutation.Program();
+            s.Solve(given);
         }
 
         /// <summary>
@@ -60,10 +62,12 @@ namespace RunProjects
             stack.Push(2);
             stack.Push(3);
             int top = stack.Peek();
-            Console.WriteLine(top);
+            Console.WriteLine("Peek: " + top);
+            Console.Write("Current Linked List: ");
             stack.print();
 
             stack.Pop();
+            Console.Write("Linked List After Pop: ");
             stack.print();
         }
     }

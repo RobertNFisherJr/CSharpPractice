@@ -15,6 +15,7 @@ namespace RunProjects
             LinkedListStack();
             LongestCommonSequence();
             MinMax();
+            StringToHex();
         }
         /// <summary>
         /// Solves the distinct Min and Max values of a given array problem from Augus 2 2021 Revature Problem.
@@ -29,6 +30,21 @@ namespace RunProjects
             A2.MinMax MnM = new A2.MinMax();
             int[] arr = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 5, 9, 8, 6 };
             MnM.Solve(arr);
+        }
+        /// <summary>
+        /// Solves the Logical Reasoning problem from August 2 2021 Revature Problems
+        /// This solutions creates a dictionary of the alphabet where each value for 
+        /// char c in the alphabet, has a value equaled to its numerical place. Each letter
+        /// for the given string is then converted to its smallest summed factor and then returned
+        /// as a string of char int tuples representing the encoded version of the given string.
+        /// 
+        /// Link:
+        /// </summary>
+        public static void StringToHex()
+        {
+            A2.LogicalReasoning LR = new A2.LogicalReasoning();
+            string a = "QUADRANT";
+            LR.Solve(a);
         }
 
         /// <summary>

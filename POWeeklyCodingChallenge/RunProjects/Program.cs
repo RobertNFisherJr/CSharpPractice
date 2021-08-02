@@ -15,7 +15,7 @@ namespace RunProjects
             LinkedListStack();
             LongestCommonSequence();
             MinMax();
-            StringToHex();
+            EncodedString();
         }
         /// <summary>
         /// Solves the distinct Min and Max values of a given array problem from Augus 2 2021 Revature Problem.
@@ -23,7 +23,7 @@ namespace RunProjects
         /// a dictionary with the counts of each present number. Then finds the max and min key
         /// from the dictionary where the value == 1
         /// 
-        /// Link: 
+        /// Link: https://github.com/RobertNFisherJr/CSharpPractice/blob/main/POWeeklyCodingChallenge/Challenge_August_2/MinMax.cs
         /// </summary>
         public static void MinMax()
         {
@@ -38,9 +38,9 @@ namespace RunProjects
         /// for the given string is then converted to its smallest summed factor and then returned
         /// as a string of char int tuples representing the encoded version of the given string.
         /// 
-        /// Link:
+        /// Link: https://github.com/RobertNFisherJr/CSharpPractice/blob/main/POWeeklyCodingChallenge/Challenge_August_2/LogicalReasoning.cs
         /// </summary>
-        public static void StringToHex()
+        public static void EncodedString()
         {
             A2.LogicalReasoning LR = new A2.LogicalReasoning();
             string a = "QUADRANT";
@@ -53,7 +53,7 @@ namespace RunProjects
         /// contains this substring. If it does, then it checks if the substring is the longest substring. It then 
         /// returns the greatest result after iterating through the first string.
         /// 
-        /// Link:
+        /// Link: https://github.com/RobertNFisherJr/CSharpPractice/blob/main/POWeeklyCodingChallenge/Challenge_August_2/LongestCommonSubsequence.cs
         /// </summary>
         public static void LongestCommonSequence()
         {

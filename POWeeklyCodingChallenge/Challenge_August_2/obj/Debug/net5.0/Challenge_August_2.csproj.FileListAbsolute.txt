@@ -1,0 +1,15 @@
+C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\Challenge_August_2\bin\Debug\net5.0\Challenge_August_2.deps.json
+C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\Challenge_August_2\bin\Debug\net5.0\Challenge_August_2.dll
+C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\Challenge_August_2\bin\Debug\net5.0\ref\Challenge_August_2.dll
+C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\Challenge_August_2\bin\Debug\net5.0\Challenge_August_2.pdb
+C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\Challenge_August_2\obj\Debug\net5.0\Challenge_August_2.csprojAssemblyReference.cache
+C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\Challenge_August_2\obj\Debug\net5.0\Challenge_August_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\Challenge_August_2\obj\Debug\net5.0\Challenge_August_2.AssemblyInfoInputs.cache
+C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\Challenge_August_2\obj\Debug\net5.0\Challenge_August_2.AssemblyInfo.cs
+C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\Challenge_August_2\obj\Debug\net5.0\Challenge_August_2.csproj.CoreCompileInputs.cache
+C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\Challenge_August_2\obj\Debug\net5.0\Challenge_August_2.dll
+C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\Challenge_August_2\obj\Debug\net5.0\ref\Challenge_August_2.dll
+C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\Challenge_August_2\obj\Debug\net5.0\Challenge_August_2.pdb
+C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\Challenge_August_2\bin\Debug\net5.0\Utility.dll
+C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\Challenge_August_2\bin\Debug\net5.0\Utility.pdb
+C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\Challenge_August_2\obj\Debug\net5.0\Challenge_August_2.csproj.CopyComplete

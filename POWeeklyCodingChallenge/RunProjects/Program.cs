@@ -2,6 +2,7 @@
 using J26 = Challenge_July_26;
 using Utility;
 using ArrayPermutation;
+using A2 = Challenge_August_2;
 
 namespace RunProjects
 {
@@ -12,6 +13,42 @@ namespace RunProjects
             ArrayPermutations();
             ContiguousArrays();
             LinkedListStack();
+            LongestCommonSequence();
+            MinMax();
+        }
+        /// <summary>
+        /// Solves the distinct Min and Max values of a given array problem from Augus 2 2021 Revature Problem.
+        /// Since the solution cannot be a number that exists more than once in an array, this solution creates
+        /// a dictionary with the counts of each present number. Then finds the max and min key
+        /// from the dictionary where the value == 1
+        /// 
+        /// Link: 
+        /// </summary>
+        public static void MinMax()
+        {
+            A2.MinMax MnM = new A2.MinMax();
+            int[] arr = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 5, 9, 8, 6 };
+            MnM.Solve(arr);
+        }
+
+        /// <summary>
+        /// Solves the Longest Common Sequence of two strings problem from August 2 2021 Revature Problem.
+        /// This solution creates small substrings of the first given string, and then checks if the second string
+        /// contains this substring. If it does, then it checks if the substring is the longest substring. It then 
+        /// returns the greatest result after iterating through the first string.
+        /// 
+        /// Link:
+        /// </summary>
+        public static void LongestCommonSequence()
+        {
+            A2.LongestCommonSubsequence LCS = new A2.LongestCommonSubsequence();
+            string A = "Minneapolis";
+            string B = "Minnesota";
+
+            /*A = "Moose";
+            B = "moose";*/
+
+            LCS.Solve(A,B);
         }
 
         /// <summary>

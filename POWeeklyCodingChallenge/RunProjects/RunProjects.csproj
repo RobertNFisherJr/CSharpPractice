@@ -9,6 +9,7 @@
     <ProjectReference Include="..\ArrayPermutation\ArrayPermutation.csproj" />
     <ProjectReference Include="..\Challenge_July_26\Challenge_July_26.csproj" />
     <ProjectReference Include="..\Utility\Utility.csproj" />
+    <ProjectReference Include="..\Challenge_August_2\Challenge_August_2.csproj" />
   </ItemGroup>
 
 </Project>

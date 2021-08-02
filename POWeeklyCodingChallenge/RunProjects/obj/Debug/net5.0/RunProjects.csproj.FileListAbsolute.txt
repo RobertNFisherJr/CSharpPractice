@@ -21,3 +21,5 @@ C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallen
 C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\RunProjects\bin\Debug\net5.0\Challenge_July_26.pdb
 C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\RunProjects\bin\Debug\net5.0\Utility.pdb
 C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\RunProjects\obj\Debug\net5.0\RunProjects.csproj.CopyComplete
+C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\RunProjects\bin\Debug\net5.0\Challenge_August_2.dll
+C:\Users\Robbie\Revature\Purgatory\Projects\CSharpPractice\POWeeklyCodingChallenge\RunProjects\bin\Debug\net5.0\Challenge_August_2.pdb

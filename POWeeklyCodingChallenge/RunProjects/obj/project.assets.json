@@ -12,6 +12,19 @@
           "bin/placeholder/ArrayPermutation.dll": {}
         }
       },
+      "Challenge_August_2/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Utility": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Challenge_August_2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Challenge_August_2.dll": {}
+        }
+      },
       "Challenge_July_26/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -43,6 +56,11 @@
       "path": "../ArrayPermutation/ArrayPermutation.csproj",
       "msbuildProject": "../ArrayPermutation/ArrayPermutation.csproj"
     },
+    "Challenge_August_2/1.0.0": {
+      "type": "project",
+      "path": "../Challenge_August_2/Challenge_August_2.csproj",
+      "msbuildProject": "../Challenge_August_2/Challenge_August_2.csproj"
+    },
     "Challenge_July_26/1.0.0": {
       "type": "project",
       "path": "../Challenge_July_26/Challenge_July_26.csproj",
@@ -57,6 +75,7 @@
   "projectFileDependencyGroups": {
     "net5.0": [
       "ArrayPermutation >= 1.0.0",
+      "Challenge_August_2 >= 1.0.0",
       "Challenge_July_26 >= 1.0.0",
       "Utility >= 1.0.0"
     ]
@@ -90,6 +109,9 @@
           "projectReferences": {
             "C:\\Users\\Robbie\\Revature\\Purgatory\\Projects\\CSharpPractice\\POWeeklyCodingChallenge\\ArrayPermutation\\ArrayPermutation.csproj": {
               "projectPath": "C:\\Users\\Robbie\\Revature\\Purgatory\\Projects\\CSharpPractice\\POWeeklyCodingChallenge\\ArrayPermutation\\ArrayPermutation.csproj"
+            },
+            "C:\\Users\\Robbie\\Revature\\Purgatory\\Projects\\CSharpPractice\\POWeeklyCodingChallenge\\Challenge_August_2\\Challenge_August_2.csproj": {
+              "projectPath": "C:\\Users\\Robbie\\Revature\\Purgatory\\Projects\\CSharpPractice\\POWeeklyCodingChallenge\\Challenge_August_2\\Challenge_August_2.csproj"
             },
             "C:\\Users\\Robbie\\Revature\\Purgatory\\Projects\\CSharpPractice\\POWeeklyCodingChallenge\\Challenge_July_26\\Challenge_July_26.csproj": {
               "projectPath": "C:\\Users\\Robbie\\Revature\\Purgatory\\Projects\\CSharpPractice\\POWeeklyCodingChallenge\\Challenge_July_26\\Challenge_July_26.csproj"

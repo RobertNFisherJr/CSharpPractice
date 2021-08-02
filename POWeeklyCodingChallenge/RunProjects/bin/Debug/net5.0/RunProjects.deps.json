@@ -9,6 +9,7 @@
       "RunProjects/1.0.0": {
         "dependencies": {
           "ArrayPermutation": "1.0.0",
+          "Challenge_August_2": "1.0.0",
           "Challenge_July_26": "1.0.0",
           "Utility": "1.0.0"
         },
@@ -19,6 +20,14 @@
       "ArrayPermutation/1.0.0": {
         "runtime": {
           "ArrayPermutation.dll": {}
+        }
+      },
+      "Challenge_August_2/1.0.0": {
+        "dependencies": {
+          "Utility": "1.0.0"
+        },
+        "runtime": {
+          "Challenge_August_2.dll": {}
         }
       },
       "Challenge_July_26/1.0.0": {
@@ -43,6 +52,11 @@
       "sha512": ""
     },
     "ArrayPermutation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Challenge_August_2/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

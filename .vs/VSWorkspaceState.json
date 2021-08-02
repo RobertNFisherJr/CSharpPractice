@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\POWeeklyCodingChallenge",
+    "\\POWeeklyCodingChallenge\\Challenge_July_26",
+    "\\POWeeklyCodingChallenge\\Challenge_July_26\\bin"
   ],
-  "SelectedNode": "\\POWeeklyCodingChallenge.sln",
+  "SelectedNode": "\\POWeeklyCodingChallenge\\POWeeklyCodingChallenge.sln",
   "PreviewInSolutionExplorer": false
 }
